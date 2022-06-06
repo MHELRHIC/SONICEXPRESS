@@ -5,9 +5,6 @@ You can use the [editor on GitHub](https://github.com/MHELRHIC/SONICEXPRESS/edit
 
 
 
-
-
-
 ```markdown
 Syntax highlighted code block
 
