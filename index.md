@@ -27,7 +27,7 @@ become the greatest and preferred products
 delivery firm.
 
 
-##FASTER THAN YOU CAN THINK
+## FASTER THAN YOU CAN THINK
 Sonic Express Delivery Inc 
 is a company that was founded 
 in the Philippines and is expected 
