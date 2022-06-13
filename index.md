@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to SONICEXPRESS
 
-You can use the [editor on GitHub](https://github.com/MHELRHIC/SONICEXPRESS/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Sonic Express was founded not 
+just to produce money and profit,
+but also to compete with other
+Fast delivery service companies 
+in the Philippines. We have numerous 
+competitive advantage plans in place 
+to guarantee that we remain proactive 
+and achieve our intended goals and 
+objectives in order to compete with our 
+competitors.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SONIC EXPRESS's aim is to be the best 
+and only chosen delivery business in the 
+PHILIPPINES, as well as one of the top 
+three products delivery businesses 
+in the WORLD, by 2030.
+We plan to perfect our business structure 
+and put numerous modalities in place to ensure
+that we reach our goals and objectives in order to
+become the greatest and preferred products
+delivery firm.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MHELRHIC/SONICEXPRESS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
