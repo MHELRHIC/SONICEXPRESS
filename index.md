@@ -13,7 +13,7 @@ competitors.
 
 
 
-### Markdown
+### YOUR PACKAGE IN OUR SAFE HANDS 
 
 SONIC EXPRESS's aim is to be the best 
 and only chosen delivery business in the 
@@ -27,8 +27,17 @@ become the greatest and preferred products
 delivery firm.
 
 
-
-
+##FASTER THAN YOU CAN THINK
+Sonic Express Delivery Inc 
+is a company that was founded 
+in the Philippines and is expected 
+to be one of the top three leading 
+delivery companies in the
+Philippines by 2030. 
+We want to serve both corporate 
+and domestic clients and 
+will work hard to fulfill all of 
+our customers' needs.
 
 
 
